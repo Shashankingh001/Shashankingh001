@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shashankingh001
 - 👀 I’m interested time spending with my Parents.
 - 🌱 I’m currently learning Bachelor of Technology from Manav Rachna University Faridabad.
-- 💞️ I’m looking to collaborate on Robotics sector.
+- 💞️ I’m looking to collaborate with Robotics
+- .
 - 😄 Pronouns: Nothing
 - ⚡ Fun fact: This is your golden Time period.
 
